@@ -28,3 +28,34 @@ python main.py
 -The city name
 -The current temperature in °C
 -The weather condition with an icon
+
+## 📷 Screenshots
+![Main UI](Screenshots/ss1.png)
+![City Result](Screenshots/ss2.png)
+![City Result](Screenshots/ss3.png)
+
+📂 Project Structure
+.
+├── main.py
+├── weatherBackground/
+│   ├── cloudbg.png
+│   ├── cl2.png
+│   ├── sun.png
+│   ├── FOGGY.png
+│   ├── rainyNew.png
+│   ├── snowfall.png
+│   ├── thunder.png
+│   ├── cloudlyNew.png
+│   └── logo1.png
+
+📜 License
+
+This project is licensed under the MIT License. Feel free to modify and use it for your own purposes.
+
+🙌 Credits
+
+CustomTkinter
+
+OpenWeatherMap API
+
+Pillow (PIL)
