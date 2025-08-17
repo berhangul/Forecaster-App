@@ -8,7 +8,8 @@ window.title("Weather In Your Cıty")
 window.geometry("420x730")
 window.configure(fg_color="#38b6ff")
 
-apiKey = "c7c6fdb3614204ce87205f65580322dd"
+# you should have an api key from open weatherOpen to use this project
+apiKey = "8fa520c9e621cbb3936027dfc931d4ab"
 
 #Images
 imageCloud = Image.open("weatherBackground/cloudbg.png")
