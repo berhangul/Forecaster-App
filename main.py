@@ -9,7 +9,7 @@ window.geometry("420x730")
 window.configure(fg_color="#38b6ff")
 
 # you should have an api key from open weatherOpen to use this project
-apiKey = "8fa520c9e621cbb3936027dfc931d4ab"
+apiKey = #write your Api key here
 
 #Images
 imageCloud = Image.open("weatherBackground/cloudbg.png")
